@@ -1,2 +1,2 @@
-# TSF-GRIP-TASK-1
+# TSF-GRIP-TASK
 Internship Task Submission
