@@ -1,2 +1,2 @@
 # TSF-GRIP-TASK-1
-Prediction using Supervised Machine Learning
+Internship Task Submission
